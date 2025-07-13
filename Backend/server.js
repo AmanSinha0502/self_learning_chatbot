@@ -60,7 +60,7 @@ function loadTrainingData() {
 // OpenAI API setup
 const openai = new OpenAI({
   apiKey:
-    "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", // Replace with a valid API key
+    "your api key", // Replace with a valid API key
 });
 
 // Function to fetch response from ChatGPT
